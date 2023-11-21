@@ -1,0 +1,102 @@
+TransactionID,Products
+1,Apple, Banana, Orange, Mango
+2,Apple, Mango, Pineapple
+3,Banana, Mango, Pineapple
+4,Apple, Orange, Mango, Grapes
+5,Apple, Banana, Grapes
+6,Orange, Mango, Pineapple
+7,Apple, Banana, Grapes
+8,Banana, Mango, Pineapple
+9,Apple, Orange, Grapes
+10,Apple, Banana, Mango
+11,Orange, Mango, Pineapple
+12,Apple, Banana, Pineapple
+13,Banana, Grapes, Mango
+14,Apple, Grapes, Mango
+15,Apple, Banana, Orange, Grapes
+16,Orange, Grapes
+17,Banana, Mango, Pineapple
+18,Apple, Grapes, Pineapple
+19,Banana, Orange, Pineapple
+20,Apple, Banana, Mango
+21,Orange, Mango, Pineapple
+22,Apple, Banana, Grapes
+23,Banana, Grapes, Mango
+24,Apple, Grapes, Mango
+25,Orange, Mango, Pineapple
+26,Apple, Banana, Grapes
+27,Banana, Grapes, Mango
+28,Apple, Orange, Mango
+29,Apple, Banana, Pineapple
+30,Orange, Mango, Pineapple
+31,Apple, Banana, Mango
+32,Banana, Mango, Pineapple
+33,Apple, Grapes
+34,Orange, Grapes, Mango
+35,Apple, Banana, Orange
+36,Banana, Mango, Pineapple
+37,Apple, Grapes, Mango
+38,Banana, Orange, Pineapple
+39,Apple, Banana, Mango
+40,Orange, Mango, Pineapple
+41,Apple, Banana, Pineapple
+42,Banana, Grapes, Pineapple
+43,Apple, Mango, Pineapple
+44,Apple, Banana, Orange
+45,Banana, Mango, Pineapple
+46,Apple, Grapes, Mango
+47,Orange, Mango, Pineapple
+48,Apple, Banana, Pineapple
+49,Orange, Mango, Pineapple
+50,Apple, Grapes, Pineapple
+51,Apple, Banana, Orange, Mango
+52,Apple, Mango, Pineapple
+53,Banana, Mango, Pineapple
+54,Apple, Orange, Mango, Grapes
+55,Apple, Banana, Grapes
+56,Orange, Mango, Pineapple
+57,Apple, Banana, Grapes
+58,Banana, Mango, Pineapple
+59,Apple, Orange, Grapes
+60,Apple, Banana, Mango
+61,Orange, Mango, Pineapple
+62,Apple, Banana, Pineapple
+63,Banana, Grapes, Mango
+64,Apple, Grapes, Mango
+65,Apple, Banana, Orange, Grapes
+66,Orange, Grapes
+67,Banana, Mango, Pineapple
+68,Apple, Grapes, Pineapple
+69,Banana, Orange, Pineapple
+70,Apple, Banana, Mango
+71,Orange, Mango, Pineapple
+72,Apple, Banana, Grapes
+73,Banana, Grapes, Mango
+74,Apple, Grapes, Mango
+75,Orange, Mango, Pineapple
+76,Apple, Banana, Grapes
+77,Banana, Grapes, Mango
+78,Apple, Orange, Mango
+79,Apple, Banana, Pineapple
+80,Orange, Mango, Pineapple
+81,Apple, Banana, Mango
+82,Banana, Mango, Pineapple
+83,Apple, Grapes
+84,Orange, Grapes, Mango
+85,Apple, Banana, Orange
+86,Banana, Mango, Pineapple
+87,Apple, Grapes, Mango
+88,Banana, Orange, Pineapple
+89,Apple, Banana, Mango
+90,Orange, Mango, Pineapple
+91,Apple, Banana, Pineapple
+92,Banana, Grapes, Pineapple
+93,Apple, Mango, Pineapple
+94,Apple, Banana, Orange
+95,Banana, Mango, Pineapple
+96,Apple, Grapes, Mango
+97,Orange, Mango, Pineapple
+98,Apple, Banana, Pineapple
+99,Orange, Mango, Pineapple
+100,Apple, Grapes, Pineapple
+
